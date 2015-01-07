@@ -33,8 +33,8 @@ Play around with the legs until you find a model you like. Once you get them, us
 
 Checkout the STLs to interact with a 3D version of them ;)
 
-![original legs](legs_01.jpg)
-![other model legs](legs_02.jpg)
+![original legs](legs_01.png)
+![other model legs](legs_02.png)
 
 ## Gotchas
 
