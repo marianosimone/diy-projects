@@ -12,7 +12,7 @@
 
 ## Process
 
-My first attempt worked just fine, but was kind of ugly:
+My first attempt worked just fine, but was kind of ugly. 4 soda cans and some books allowed me to try out the concept and adjust the height until I got it right:
 
 ![first desk](desk_01.jpg)
 
